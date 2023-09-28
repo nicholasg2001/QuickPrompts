@@ -38,9 +38,7 @@ const CreatePrompt = () => {
             setSubmitting(false); //do this regardless of if the api call works
         }
     }
-
-
-
+    
     return (
         <Form 
             type="Create"
